@@ -24,4 +24,6 @@ Exemplo de ataque de Phishing usando Kali linux e setoolkit
 
 ![Obtendo o endereço da máquina](5.png)
 
-![Credenciais capturadas](6.png)
+![Tipo do template](6.png)
+
+![Credenciais capturadas](7.png)
