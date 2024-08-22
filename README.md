@@ -14,5 +14,14 @@ Exemplo de ataque de Phishing usando Kali linux e setoolkit
 - **Método de ataque:** Web Templates
 - **Obtendo o endereço da máquina:** `ifconfig`
 
-  
+![Tipo de ataque](1.png)
 
+![Vetor de ataque](2.png)
+
+![Método de ataque](3.png)
+
+![Método de ataque](4.png)
+
+![Obtendo o endereço da máquina](5.png)
+
+![Credenciais capturadas](6.png)
